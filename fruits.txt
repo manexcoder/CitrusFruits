@@ -1,1 +1,4 @@
 Apples are brown
+Oranges are orange
+Lemon are green
+
